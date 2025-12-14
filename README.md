@@ -10,8 +10,11 @@ The goal of this project is to prepare a clean, analysis-ready sales dataset by 
 
 This repository currently contains:
 
-- `Data.csv` — the synthetic sales data (raw).
-- `README.md` — this file describing the dataset, preprocessing steps, and dashboard.
+- `Data.csv` — The raw synthetic sales dataset used for the data-cleaning and preprocessing exercise. It contains fields such as `Order ID`, `Order DateTime`, `Customer Full Name`, `Product`, `Quantity`, `Price`, and `Country`.
+- `README.md` — This file provides an overview of the project, including the dataset description, preprocessing steps, and details about the Power BI dashboard created to visualize the cleaned data.
+- `DashBoard.pdf` — A PDF file showcasing the Power BI dashboard visuals, including KPIs and charts for sales, profits, costs, and trends.
+- `Dashboard.pbix` - A .pbix file 
+- `Dashboard.png` - Dashboard in .png format
 
 ## Preprocessing steps performed
 
